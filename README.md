@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img alt="GoStack" src=".github/GoStackLogo.png" width="200px" />
+	<img alt="GoStack" src=".github/gostacklogo.png" width="200px" />
 </h1>
 
 <h3 align="center">
@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <a href="#-Instalação-e-execução">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;| <a href="#-Instalação-e-execução">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
    <!-- <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp; -->
 </p>
 
