@@ -4,7 +4,7 @@ module.exports = {
   username: 'postgres',
   password: 'thiago',
   database: 'gobarber',
-  difine: {
+  define: {
     timestamps: true,
     underscored: true,
     underscoredAll: true,
